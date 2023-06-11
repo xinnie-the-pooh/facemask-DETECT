@@ -1,4 +1,4 @@
-# facemask-dection
+# facemask-DETECT
 # gg at cr.s compile and design ver3.4 （final）
 # 2021-7 lamar_gta6 
 ############################################
